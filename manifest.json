@@ -1,0 +1,17 @@
+{
+    "name": "html5test.liu-xiao-guo",
+    "description": "description of html5test",
+    "architecture": "all",
+    "title": "html5test",
+    "hooks": {
+        "html5test": {
+            "apparmor": "html5test.apparmor",
+            "desktop":  "html5test.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+
